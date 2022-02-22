@@ -1,1 +1,1 @@
-"Welkom bij het DURE restaurant!"
+"Welkom bij het BESTE restaurant!"
