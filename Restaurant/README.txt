@@ -3,4 +3,4 @@
 "Cola is beter dan sprite"
 "Werkt de wijziging"
 "Eten verkopen wij niet!!"
-"hoi"
+
