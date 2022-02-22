@@ -1,0 +1,1 @@
+"Welkom bij het restaurant!"
