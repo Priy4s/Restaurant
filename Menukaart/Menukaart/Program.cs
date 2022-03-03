@@ -14,7 +14,7 @@ namespace Menukaart
                 Console.WriteLine("2. Lunch");
                 Console.WriteLine("3. Diner");
                 Console.WriteLine("4. Drinken");
-                Console.WriteLine("5. Alergieën informatie");
+                Console.WriteLine("5. Allergieën informatie");
                 Console.WriteLine("0. Terug");
 
                 string input = Console.ReadLine();
@@ -155,7 +155,7 @@ namespace Menukaart
                 else if (keuze == 5)
                 {
                     Console.WriteLine("---------------------------------------------------------------------");
-                    Console.WriteLine("\n Alergieën informatie\n");
+                    Console.WriteLine("\n Allergieën informatie\n");
                     Console.WriteLine("V - Vegan");
                     Console.WriteLine("N - Bevat noten");
                     Console.WriteLine("L - Lactose vrij");
