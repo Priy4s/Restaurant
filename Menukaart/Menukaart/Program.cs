@@ -4,7 +4,7 @@ namespace Menukaart
 {
     internal class Program
     {
-        static void Main(string[] args)//hi
+        static void Main(string[] args)//notficatie test
         {
             while (true)
             {
