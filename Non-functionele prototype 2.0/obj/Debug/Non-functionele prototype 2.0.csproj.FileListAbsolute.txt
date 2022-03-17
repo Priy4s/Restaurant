@@ -1,0 +1,16 @@
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\bin\Debug\Non-functionele prototype 2.0.exe.config
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\bin\Debug\Non-functionele prototype 2.0.exe
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\bin\Debug\Non-functionele prototype 2.0.pdb
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.AssemblyReference.cache
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.CoreCompileInputs.cache
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.exe
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.pdb
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\bin\Debug\Non-functionele prototype 2.0.exe.config
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\bin\Debug\Non-functionele prototype 2.0.exe
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\bin\Debug\Non-functionele prototype 2.0.pdb
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.AssemblyReference.cache
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.CoreCompileInputs.cache
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.exe
+C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code)\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.pdb
