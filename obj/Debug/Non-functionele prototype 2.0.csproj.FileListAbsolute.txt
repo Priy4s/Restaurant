@@ -17,3 +17,6 @@ C:\Users\shery\OneDrive\Bureaublad\School\Project&Skills\Project B\Project (code
 C:\Users\priya\source\repos\Restaurant\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.AssemblyReference.cache
 C:\Users\priya\source\repos\Restaurant\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.SuggestedBindingRedirects.cache
 C:\Users\priya\source\repos\Restaurant\Non-functionele prototype 2.0\obj\Debug\Non-functionele prototype 2.0.csproj.CoreCompileInputs.cache
+C:\Users\shery\OneDrive\Documenten\GitHub\Restaurant\obj\Debug\Non-functionele prototype 2.0.csproj.AssemblyReference.cache
+C:\Users\shery\OneDrive\Documenten\GitHub\Restaurant\obj\Debug\Non-functionele prototype 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\shery\OneDrive\Documenten\GitHub\Restaurant\obj\Debug\Non-functionele prototype 2.0.csproj.CoreCompileInputs.cache
