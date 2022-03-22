@@ -1,0 +1,5 @@
+P:\school\Rotterdam Hogeschool\project B\project B\menuJson\menuJson\obj\Debug\net6.0\menuJson.csproj.AssemblyReference.cache
+P:\school\Rotterdam Hogeschool\project B\project B\menuJson\menuJson\obj\Debug\net6.0\menuJson.GeneratedMSBuildEditorConfig.editorconfig
+P:\school\Rotterdam Hogeschool\project B\project B\menuJson\menuJson\obj\Debug\net6.0\menuJson.AssemblyInfoInputs.cache
+P:\school\Rotterdam Hogeschool\project B\project B\menuJson\menuJson\obj\Debug\net6.0\menuJson.AssemblyInfo.cs
+P:\school\Rotterdam Hogeschool\project B\project B\menuJson\menuJson\obj\Debug\net6.0\menuJson.csproj.CoreCompileInputs.cache
