@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
-namespace Main
+namespace Main // Namespace moet dezelfde naam hebben, anders kan je de code niet gebruiken (error).
 {
     public class Reserveringen
     {
@@ -33,6 +34,8 @@ namespace Main
             Globals.reservering_tijd.Add(naam, tijd); // Dictionary met de naam van de reservering als key en de value het tijdstip.
             Globals.available_seats -= aantal;
             Globals.taken_seats += aantal;
+            //JsonConvert.SerializeObject(Globals.reservering_personen);
+            //JsonConvert.SerializeObject(Globals.reservering_tijd);
             Console.Clear();
             while (true) // Deze while-loop zorgt ervoor dat de tekst in de console blijft staan, totdat de gebruiker op 'Enter' klikt.
             {

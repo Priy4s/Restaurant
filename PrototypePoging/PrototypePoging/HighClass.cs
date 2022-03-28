@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Main.Reserveringen;
+using Newtonsoft.Json;
+using static Main.Reserveringen; // Opent de file (achter de punt) waarvan je code/methods gaat gebruiken.
 using static Main.Accounts;
 using static Main.Menu;
 
@@ -50,7 +51,7 @@ namespace Main
                         ConsoleKeyInfo cvjkey = Console.ReadKey();
                         if (cvjkey.Key == ConsoleKey.D1)
                         {
-                            Reserveringen.Plekken();
+                            Reserveringen.Plekken(); // Roept de method (achter de punt) van de file (voor de punt) op.
                         }
                         else if (cvjkey.Key == ConsoleKey.D2)
                         {
